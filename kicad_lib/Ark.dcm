@@ -1,0 +1,52 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N7002ET1G
+D MOSFET N-Channel 60V 0.26A SOT23 ON Semiconductor 2N7002ET1G N-channel MOSFET Transistor, 0.26 A, 60 V, 3-Pin SOT-23
+F http://www.onsemi.com/pub/Collateral/2N7002E-D.PDF
+$ENDCMP
+#
+$CMP 74279220800
+D WE-MPSB Ferrite Bead 80R 4000mA
+F https://componentsearchengine.com/Datasheets/1/74279220800.pdf
+$ENDCMP
+#
+$CMP BQ76920
+D Lithium battery monitor, 3-5 cells, integrated balancing, I2C interface, TSSOP-20
+K lithium battery balance charge afe
+F http://www.ti.com/lit/ds/symlink/bq76920.pdf
+$ENDCMP
+#
+$CMP BQ76930
+D Lithium battery monitor, 6-10 cells, integrated balancing, I2C interface, TSSOP-30
+K lithium battery balance charge afe
+F http://www.ti.com/lit/ds/symlink/bq76930.pdf
+$ENDCMP
+#
+$CMP FQP30N6L
+D 0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92
+K N-Channel MOSFET Logic-Level
+F https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf
+$ENDCMP
+#
+$CMP NCU18XH103F6SRB
+D MURATA - NCU18XH103F6SRB - NTC THERMISTOR, 10K, 0603, AUTOMOTIVE
+F https://componentsearchengine.com/Datasheets/2/NCU18XH103F6SRB.pdf
+$ENDCMP
+#
+$CMP PTS526_SM15_SMTR2_LFS
+D Tactile Switches 50mA 12VDC, 5.2x5.2mm, 1.5mm H, 160gf, G leads, No ground pin, metal actuator
+$ENDCMP
+#
+$CMP TP0610L_copy
+D -0.18A Id, -60V Vds, P-Channel MOSFET, TO-92
+K P-Channel MOSFET
+F http://www.vishay.com/docs/70209/70209.pdf
+$ENDCMP
+#
+$CMP VP0610L_copy
+D -0.18A Id, -60V Vds, P-Channel MOSFET, TO-92
+K P-Channel MOSFET
+F http://www.vishay.com/docs/70209/70209.pdf
+$ENDCMP
+#
+#End Doc Library

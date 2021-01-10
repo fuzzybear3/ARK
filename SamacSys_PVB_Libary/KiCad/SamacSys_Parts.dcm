@@ -1,0 +1,98 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 10104110-0001LF
+D Amphenol FCI B 2.0 Micro USB Connector Receptacle, Right Angle
+F https://componentsearchengine.com/Datasheets/1/10104110-0001LF.pdf
+$ENDCMP
+#
+$CMP 2N7002ET1G
+D MOSFET N-Channel 60V 0.26A SOT23 ON Semiconductor 2N7002ET1G N-channel MOSFET Transistor, 0.26 A, 60 V, 3-Pin SOT-23
+F http://www.onsemi.com/pub/Collateral/2N7002E-D.PDF
+$ENDCMP
+#
+$CMP 61201021621
+D 10 way 2.54mm male box Header Wurth Elektronik 612 Series, 2.54mm Pitch 10 Way 2 Row Straight PCB Header, Solder Termination, 3A
+$ENDCMP
+#
+$CMP 61202021721
+D Wurth Elektronik 612 Series, 2.54mm Pitch 20 Way 2 Row Right Angle PCB Header, Solder Termination, 3A
+F http://katalog.we-online.de/em/datasheet/6120xx21721.pdf
+$ENDCMP
+#
+$CMP 74279220800
+D WE-MPSB Ferrite Bead 80R 4000mA
+F https://componentsearchengine.com/Datasheets/1/74279220800.pdf
+$ENDCMP
+#
+$CMP B5819WS-TP
+D Diode Schottky 40V 1A 2-Pin SOD-323 T/R
+F https://www.arrow.com/en/products/b5819ws-tp/micro-commercial-components
+$ENDCMP
+#
+$CMP BQ7693003DBTR
+D 6 to 10-Series Cell Li-Ion and Li-Phosphate Battery Monitor (bq76940 Family)
+F http://www.ti.com/lit/gpn/bq76930
+$ENDCMP
+#
+$CMP ESP32-S2-WROVER_M22S2H3216PH3Q0_
+D WiFi Modules (802.11) Module ESP32-S2 WROVER PCB ANT
+F https://www.espressif.com/sites/default/files/documentation/esp32-s2-wrover_esp32-s2-wrover-i_datasheet_en.pdf
+$ENDCMP
+#
+$CMP MINISMDC110F_24-2
+D PPTC 24V 1.1A-HD 40A MAX
+F http://www.littelfuse.com/~/media/electronics/product_specifications/resettable_ptcs/littelfuse_ptc_minismdc110f_24_2_product_specification.pdf.pdf
+$ENDCMP
+#
+$CMP NE555DR
+D Single Precision Timer
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP SS8050-G
+D Bipolar Transistors - BJT NPN TRANSISTOR 1.5A 40V
+F http://www.comchiptech.com/admin/files/product/SS8050-G%20RevA181526.pdf
+$ENDCMP
+#
+$CMP USBLC6-2SC6
+D TVS Diode Array Uni-Directional USBLC6-2SC6 17V, SOT-23 6-Pin
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00050750.pdf
+$ENDCMP
+#
+$CMP PTS526_SM15_SMTR2_LFS
+D Tactile Switches 50mA 12VDC, 5.2x5.2mm, 1.5mm H, 160gf, G leads, No ground pin, metal actuator
+K
+F 
+$ENDCMP
+#
+$CMP NCU18XH103F6SRB
+D MURATA - NCU18XH103F6SRB - NTC THERMISTOR, 10K, 0603, AUTOMOTIVE
+K
+F https://componentsearchengine.com/Datasheets/2/NCU18XH103F6SRB.pdf
+$ENDCMP
+#
+$CMP APHHS1005LQBC_D-V
+D LED BLUE CLEAR SMD
+K
+F http://www.kingbrightusa.com/images/catalog/SPEC/APHHS1005LQBC-D-V.pdf
+$ENDCMP
+#
+$CMP GRM187R61A226ME15D
+D Cap Ceramic 22uF 10V X5R 20% Pad SMD 0603 85C T/R
+K
+F 
+$ENDCMP
+#
+$CMP BSC160N15NS5ATMA1
+D INFINEON - BSC160N15NS5ATMA1 - MOSFET, N-CH, 150V, 56A, TDSON-8
+K
+F https://www.infineon.com/dgdl/Infineon-BSC160N15NS5-DS-v02_02-EN.pdf?fileId=5546d46253f650570154a055b7215b1b
+$ENDCMP
+#
+$CMP MMBT5401LT1G
+D 
+K
+F http://www.onsemi.com/pub/Collateral/MMBT5401LT1-D.PDF
+$ENDCMP
+#
+#End Doc Library
