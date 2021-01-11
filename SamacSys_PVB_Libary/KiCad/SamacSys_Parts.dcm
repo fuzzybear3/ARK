@@ -95,4 +95,16 @@ K
 F http://www.onsemi.com/pub/Collateral/MMBT5401LT1-D.PDF
 $ENDCMP
 #
+$CMP ISL854102FRZ
+D Integrated FET Regulators Wide VIN 1.2A Synchronous Buck Regulator
+K
+F https://www.renesas.com/en-us/www/doc/datasheet/isl854102.pdf
+$ENDCMP
+#
+$CMP MAX485CSA+
+D MAX485CSA+, Line Transceiver, RS-485, RS-422 2.5Mbit/s Differential, 5V, 8-Pin SOIC
+K
+F http://datasheets.maximintegrated.com/en/ds/MAX1487-MAX491.pdf
+$ENDCMP
+#
 #End Doc Library

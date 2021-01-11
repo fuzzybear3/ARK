@@ -530,4 +530,65 @@ P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
 ENDDRAW
 ENDDEF
 #
+#SamacSys ECAD Model ISL854102FRZ
+#/2388603/295563/2.47/13/3/Integrated Circuit
+DEF ISL854102FRZ IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "ISL854102FRZ" 1050 200 50 H V L CNN
+F2 "SON50P300X400X100-13N-D" 1050 100 50 H I L CNN
+F3 "https://www.renesas.com/en-us/www/doc/datasheet/isl854102.pdf" 1050 0 50 H I L CNN
+F4 "Integrated FET Regulators Wide VIN 1.2A Synchronous Buck Regulator" 1050 -100 50 H I L CNN "Description"
+F5 "1" 1050 -200 50 H I L CNN "Height"
+F6 "Renesas Electronics" 1050 -300 50 H I L CNN "Manufacturer_Name"
+F7 "ISL854102FRZ" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "968-ISL854102FRZ" 1050 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Renesas-Intersil/ISL854102FRZ?qs=UgE%2F0m3bTsY3%252BZwyo%252B1eUw%3D%3D" 1050 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "ISL854102FRZ" 1050 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/isl854102frz/intersil" 1050 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X SS 1 0 0 200 R 50 50 0 0 P
+X SYNC 2 0 -100 200 R 50 50 0 0 P
+X BOOT 3 0 -200 200 R 50 50 0 0 P
+X VIN 4 0 -300 200 R 50 50 0 0 P
+X PHASE 5 0 -400 200 R 50 50 0 0 P
+X PGND 6 0 -500 200 R 50 50 0 0 P
+X GND 13 600 -1100 200 U 50 50 0 0 P
+X FS 12 1200 0 200 L 50 50 0 0 P
+X COMP 11 1200 -100 200 L 50 50 0 0 P
+X FB 10 1200 -200 200 L 50 50 0 0 P
+X VCC 9 1200 -300 200 L 50 50 0 0 P
+X PG 8 1200 -400 200 L 50 50 0 0 P
+X EN 7 1200 -500 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -900 200 -900 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model MAX485CSA+
+#/1302/295563/2.47/8/3/Integrated Circuit
+DEF MAX485CSA+ IC 0 30 Y Y 1 F N
+F0 "IC" 850 300 50 H V L CNN
+F1 "MAX485CSA+" 850 200 50 H V L CNN
+F2 "SOIC127P600X175-8N" 850 100 50 H I L CNN
+F3 "http://datasheets.maximintegrated.com/en/ds/MAX1487-MAX491.pdf" 850 0 50 H I L CNN
+F4 "MAX485CSA+, Line Transceiver, RS-485, RS-422 2.5Mbit/s Differential, 5V, 8-Pin SOIC" 850 -100 50 H I L CNN "Description"
+F5 "1.75" 850 -200 50 H I L CNN "Height"
+F6 "Maxim Integrated" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "MAX485CSA+" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "700-MAX485CSA" 850 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX485CSA%2b/?qs=1THa7WoU59EQmpurcwoy4Q%3D%3D" 850 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 850 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 850 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X RO 1 0 0 200 R 50 50 0 0 P
+X ~RE 2 0 -100 200 R 50 50 0 0 P
+X DE 3 0 -200 200 R 50 50 0 0 P
+X DI 4 0 -300 200 R 50 50 0 0 P
+X VCC 8 1000 0 200 L 50 50 0 0 P
+X B 7 1000 -100 200 L 50 50 0 0 P
+X A 6 1000 -200 200 L 50 50 0 0 P
+X GND 5 1000 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
 #End Library
