@@ -107,4 +107,10 @@ K
 F http://datasheets.maximintegrated.com/en/ds/MAX1487-MAX491.pdf
 $ENDCMP
 #
+$CMP #A915AY-220M=P3
+D D53LC High Current Series Inductor 22uH +/-20% 2020 (5252)
+K
+F https://psearch.en.murata.com/inductor/product/%23A915AY-220M=P3.html
+$ENDCMP
+#
 #End Doc Library
