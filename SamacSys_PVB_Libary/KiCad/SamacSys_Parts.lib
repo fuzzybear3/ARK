@@ -614,4 +614,33 @@ A 550 -2 50 1777 -23 0 1 6 N 600 0 500 0
 ENDDRAW
 ENDDEF
 #
+#SamacSys ECAD Model 10103593-0001LF
+#/862672/295563/2.48/11/4/Connector
+DEF 10103593-0001LF J 0 30 Y Y 1 F N
+F0 "J" 750 300 50 H V L CNN
+F1 "10103593-0001LF" 750 200 50 H V L CNN
+F2 "101035930001LF" 750 100 50 H I L CNN
+F3 "https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10103593.pdf" 750 0 50 H I L CNN
+F4 "Amphenol FCI, Right Angle SMT, Type B Version 2.0 Micro USB Connector Receptacle" 750 -100 50 H I L CNN "Description"
+F5 "2" 750 -200 50 H I L CNN "Height"
+F6 "649-10103593-0001LF" 750 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Amphenol-FCI/10103593-0001LF/?qs=EnLMdcWnKAAYkpXwqGEfpw%3D%3D" 750 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Amphenol" 750 -500 50 H I L CNN "Manufacturer_Name"
+F9 "10103593-0001LF" 750 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 900 -200 200 L 50 50 0 0 P
+X 2 2 900 -300 200 L 50 50 0 0 P
+X 3 3 900 -400 200 L 50 50 0 0 P
+X 4 4 900 -500 200 L 50 50 0 0 P
+X 5 5 900 -600 200 L 50 50 0 0 P
+X 6 6 900 -100 200 L 50 50 0 0 P
+X 7 7 900 -700 200 L 50 50 0 0 P
+X 8 8 900 0 200 L 50 50 0 0 P
+X 9 9 900 -800 200 L 50 50 0 0 P
+X 10 10 0 -100 200 R 50 50 0 0 P
+X 11 11 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 700 100 700 -900 200 -900 200 100 N
+ENDDRAW
+ENDDEF
+#
 #End Library

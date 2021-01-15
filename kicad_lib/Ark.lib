@@ -345,7 +345,7 @@ ENDDEF
 DEF HARTING_10_Pin_Term_Block J 0 40 Y Y 1 F N
 F0 "J" -150 800 50 H V C CNN
 F1 "HARTING_10_Pin_Term_Block" 50 -950 50 H V C CNN
-F2 "" 100 250 50 V I C CNN
+F2 "Ark:Harting_10" 100 250 50 V I C CNN
 F3 "" 100 250 50 V I C CNN
 F4 "HARTING" 0 0 50 H V C CNN "Manufacturer_Name"
 F5 "14011013102000" 0 0 50 H V C CNN "Manufacturer_Part_Number"

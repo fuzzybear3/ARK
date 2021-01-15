@@ -113,4 +113,10 @@ K
 F https://psearch.en.murata.com/inductor/product/%23A915AY-220M=P3.html
 $ENDCMP
 #
+$CMP 10103593-0001LF
+D Amphenol FCI, Right Angle SMT, Type B Version 2.0 Micro USB Connector Receptacle
+K
+F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10103593.pdf
+$ENDCMP
+#
 #End Doc Library
