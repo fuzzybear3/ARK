@@ -28,6 +28,11 @@ K N-Channel MOSFET Logic-Level
 F https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf
 $ENDCMP
 #
+$CMP LM53635QRNLTQ1
+D 2.5/3.5A, 36 V Synchronous, 2.1MHz, Automotive Step Down DC-DC Converter
+F http://www.ti.com/lit/gpn/lm53635-q1
+$ENDCMP
+#
 $CMP NCU18XH103F6SRB
 D MURATA - NCU18XH103F6SRB - NTC THERMISTOR, 10K, 0603, AUTOMOTIVE
 F https://componentsearchengine.com/Datasheets/2/NCU18XH103F6SRB.pdf

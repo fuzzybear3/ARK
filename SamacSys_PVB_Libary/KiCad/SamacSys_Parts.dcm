@@ -119,4 +119,16 @@ K
 F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10103593.pdf
 $ENDCMP
 #
+$CMP LM536355QRNLTQ1
+D 2.5/3.5A, 36 V Synchronous, 2.1MHz, Automotive Step Down DC-DC Converter
+K
+F http://www.ti.com/lit/gpn/lm53635-q1
+$ENDCMP
+#
+$CMP KRTBLSLPS1.32-VUVX-EQ+BTBV-D8+TWTZ-L1-B
+D LED RGB 6LED 6PLCC SMD
+K
+F https://dammedia.osram.info/media/resource/hires/osram-dam-6176296/KRTB%20LSLPS1.32_EN.pdf
+$ENDCMP
+#
 #End Doc Library
