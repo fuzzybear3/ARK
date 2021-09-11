@@ -22,6 +22,10 @@ K lithium battery balance charge afe
 F http://www.ti.com/lit/ds/symlink/bq76930.pdf
 $ENDCMP
 #
+$CMP ESP32WROVER_SG
+F https://www.mouser.com/datasheet/2/891/esp32-wrover-b_datasheet_en-1384674.pdf
+$ENDCMP
+#
 $CMP FQP30N6L
 D 0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92
 K N-Channel MOSFET Logic-Level
